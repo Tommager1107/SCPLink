@@ -1,0 +1,10 @@
+# SCPLink Configuration
+
+# Discord bot token
+BotToken: "YOUR_DISCORD_BOT_TOKEN"
+
+# Discord guild (server) ID
+GuildID: "YOUR_DISCORD_GUILD_ID"
+
+# Discord channel ID for receiving console logs
+ChannelID: "YOUR_DISCORD_CHANNEL_ID"
